@@ -1,0 +1,12 @@
+.colores{
+    width: 100%;
+    height: 300px;
+    background-color: blue;
+}
+@media (min-width:500px){
+.colores{background-color: cyan;
+    width: 50%;
+
+}
+    
+}
